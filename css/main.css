@@ -26,6 +26,44 @@ html {
   font-family: "Noto Sans JP", sans-serif;
   font-style: normal;
 }
+h1{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+h2{
+  text-align: center;
+  margin: 0;
+  font-size: 1rem;
+}
+
+nav{
+  text-align: center;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  list-style: none;
+  display: inline;
+  margin: .5rem;
+}
+
+main{
+  margin: 1rem;
+}
+
+.help{
+  border-top: #e2e2e2 .2rem solid;
+  border-bottom: #e2e2e2 .2rem solid
+}
+
+.banner{
+  padding: 1rem;
+}
 
 body {
   margin: 0;
